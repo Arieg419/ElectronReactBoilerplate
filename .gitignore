@@ -11,6 +11,7 @@ dev-app-update.yml
 dist
 build
 release-builds
+assets
 
 # misc
 .DS_Store
